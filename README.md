@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adxmcode
 - 👀 I’m interested in computer programming, software engineering, program development and security.
-- 🌱 Familiar with Java, Python and C/C++. Currently learning HTML/CSS/Javascript.
+- 🌱 Familiar with Java, Python and C/C++.
 - 💞️ I’m looking to collaborate on long-term projects and program development.
 - 📫 How to reach me: adamcabezas1218@outlook.com
 - 😄 Pronouns: he/him
